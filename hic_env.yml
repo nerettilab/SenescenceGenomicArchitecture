@@ -28,7 +28,6 @@ dependencies:
   - bioconductor-biocgenerics=0.48.1=r43hdfd78af_2
   - bioconductor-biocparallel=1.36.0=r43hf17093f_2
   - bioconductor-biostrings=2.70.1=r43ha9d7317_2
-  - bioconductor-clusterprofiler=4.10.0=r43hdfd78af_0
   - bioconductor-data-packages=20231203=hdfd78af_0
   - bioconductor-dose=3.28.1=r43hdfd78af_0
   - bioconductor-enrichplot=1.22.0=r43hdfd78af_0
@@ -36,12 +35,10 @@ dependencies:
   - bioconductor-genomeinfodb=1.38.1=r43hdfd78af_1
   - bioconductor-genomeinfodbdata=1.2.11=r43hdfd78af_1
   - bioconductor-ggtree=3.10.0=r43hdfd78af_0
-  - bioconductor-go.db=3.18.0=r43hdfd78af_0
   - bioconductor-gosemsim=2.28.0=r43hf17093f_0
   - bioconductor-hdo.db=0.99.1=r43hdfd78af_2
   - bioconductor-iranges=2.36.0=r43ha9d7317_2
   - bioconductor-keggrest=1.42.0=r43hdfd78af_0
-  - bioconductor-org.hs.eg.db=3.18.0=r43hdfd78af_0
   - bioconductor-qvalue=2.34.0=r43hdfd78af_0
   - bioconductor-s4vectors=0.40.2=r43ha9d7317_2
   - bioconductor-treeio=1.26.0=r43hdfd78af_1
@@ -521,4 +518,4 @@ dependencies:
       - webcolors==1.13
       - websockets==12.0
       - wrapt==1.16.0
-prefix: /users/tnunez2/.conda/envs/hic_env
+prefix: /users/adalgarn/.conda/envs/hic_env
